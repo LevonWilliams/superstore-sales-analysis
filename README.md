@@ -33,6 +33,30 @@ This analysis answers the following questions:
 
 ## Key Findings
 
+## Key Findings
+
+### 1. Category Profitability
+Technology was the most profitable category with $145,387.10 in total profit, followed by Office Supplies at $120,489.89. Furniture generated significantly less profit at $16,980.77.
+
+### 2. Customer Segment Performance
+The Consumer segment generated the highest profit at $132,669.78, followed by Corporate at $90,366.30 and Home Office at $59,821.68.
+
+### 3. Regional Performance
+The West region generated the highest profit at $106,021.15, while the Central region generated the lowest profit at $40,128.90.
+
+### 4. Subcategory Profitability
+Tables were the largest loss-producing subcategory, generating a loss of $17,725.48. Bookcases and Supplies also produced negative profits.
+
+### 5. State-Level Performance
+Texas generated the largest state-level loss at $25,534.99, followed by Ohio at $17,071.22 and Pennsylvania at $15,446.38.
+
+## Business Recommendations
+
+- Investigate pricing, discounting, and shipping costs for Tables and other loss-producing subcategories.
+- Review operations and sales strategies in Texas, Ohio, and Pennsylvania due to significant negative profitability.
+- Continue investing in Technology products because they generated the highest category-level profit.
+- Maintain focus on the Consumer segment while identifying opportunities to increase Corporate and Home Office profitability.
+- Investigate why the Central and South regions significantly trail the West and East regions in profitability.
 ### Customer Segments
 
 The Consumer segment generated the highest total profit at approximately **$132,669.78**, followed by Corporate at **$90,366.30** and Home Office at **$59,821.68**.
